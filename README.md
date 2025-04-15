@@ -67,7 +67,7 @@ You can preview the production build with `npm run preview`.
 Under here follows a list of links with stuff that are being used during development, for example colour palette(s) or
 components like buttons that someone else developed:
 
-- [Current default colour palette](https://coolors.co/palette/0a1128-001f54-034078-1282a2-fefcfb), see also the
+- [Current default colour palette](https://coolors.co/d9bbf9-cca7a2-aa9fb1-7871aa-4e5283), see also the
   file [tailwind.config.js](tailwind.config.js)
   for which names are given to the colours in this palette
 - [Design project in Figma](https://www.figma.com/design/1j8D9DgrVxbRDGJTXntrYx/WineDrinkers-Web?node-id=0-1&t=Nagb5rrIeB9q9y3u-1)

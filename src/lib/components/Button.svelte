@@ -13,7 +13,6 @@
         position: relative;
         padding: 10px 20px;
         border-radius: 7px;
-        border: 1px solid rgb(249, 84, 218);
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 600;
@@ -21,15 +20,15 @@
         background: transparent;
         color: #000;
         overflow: hidden;
-        box-shadow: 0 0 0 0 transparent;
+        box-shadow: 0 4px 8px 0 rgba(217, 187, 249, 0.2), 0 6px 20px 0 rgba(217, 187, 249, 0.19);
         -webkit-transition: all 0.2s ease-in;
         -moz-transition: all 0.2s ease-in;
         transition: all 0.2s ease-in;
     }
 
     button:hover {
-        background: rgb(249, 84, 218);
-        box-shadow: 0 0 30px 5px rgb(249, 84, 218, 0.815);
+        background: rgb(217, 187, 249);
+        box-shadow: 0 0 30px 5px rgb(217, 187, 249, 0.815);
         -webkit-transition: all 0.2s ease-out;
         -moz-transition: all 0.2s ease-out;
         transition: all 0.2s ease-out;

@@ -21,9 +21,11 @@ export default {
                 'line': '#8B9AAE',
                 'bgInput': '#EFEEEE',
                 // The colours below are what cooler.co suggested for the website and thus saved
-                'main': '#d741a7',
-                'header': '#3a1772',
-                'header_text': '#5398be'
+                'mauve': '#D9BBF9',
+                'rosy-brown': '#CCA7A2',
+                'rose-quertz': '#AA9FB1',
+                'amethyst': '#7871AA',
+                'ultra-violet': '#4E5283'   
             }
         },
     },
